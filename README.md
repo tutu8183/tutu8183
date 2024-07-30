@@ -1,16 +1,16 @@
-## Hi there 👋
+## BEM VINDO, PODE IR EMBORA ##
 
-<!--
-**tutu8183/tutu8183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É ARTUR 
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO ALURA 
+-ESTOU NO 1º ANO C
+-USO ESTE ESPAÇO PARA COMPARTILHAMENTO DOS MEUS PROJETOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***ENTRAR EM CONTATO COMIGO📪
+
+00001141209044sp@al.educacao.sp.gov.br
+
+
+
+
+![](![image](https://github.com/user-attachments/assets/b32d241b-eac4-4c20-b03f-181fecd972c7)
